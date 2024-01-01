@@ -11,6 +11,7 @@ WhtsapSyntaxHighlighter
 	<a href="https://github.com/qmigo/WhtsapSyntaxHighlighter/stargazers"><img src="https://img.shields.io/github/stars/qmigo/WhtsapSyntaxHighlighter?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a href="https://github.com/qmigo/WhtsapSyntaxHighlighter/issues"><img src="https://img.shields.io/github/issues/qmigo/WhtsapSyntaxHighlighter?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a href="https://github.com/qmigo/WhtsapSyntaxHighlighter/contributors"><img src="https://img.shields.io/github/contributors/qmigo/WhtsapSyntaxHighlighter?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3"><img src="https://img.shields.io/badge/Manifest-v3-f2cdcd?logo=w3c&logoColor=fff&style=for-the-badge&labelColor=302D41">
 </p>
 
 
