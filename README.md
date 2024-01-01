@@ -73,6 +73,8 @@ To change themes edit the _manifest.json_ file , in `content_scripts.css` (circa
   
 - synth
 
+- wapp-theme
+
 </p>
 </details>
 
